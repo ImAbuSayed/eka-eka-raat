@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Eka Eka Raat
+
+This log tracks the cryptographic history and versioning for the song **Eka Eka Raat** (eka-eka-raat).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T07:54:37.120010 | `v1` | `4422141c44e60c177323565305da80ab71537e43c11d5555fdb5fecb2a6420ad` | `364a53013ed90f81b2d05db7f38726adf0085f119e782fe127027a65c8cfe138` | `2026-05-13_eka-eka-raat-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
