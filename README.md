@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই রাতের বুকে উষ্ণ তোমার ছোঁয়া,
+> চোখের তারায় মাতাল নেশা, মেঘের মতো ধোঁয়া।
+> বুকের ভেতর প্রেমের আগুন জ্বলছে অবিরত,
+> কাছে এসো আজ রাতে, মেটাও মনের ক্ষত।
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
